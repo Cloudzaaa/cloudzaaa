@@ -3,7 +3,15 @@
 <!--
 **Cloudzaaa/cloudzaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi, I'm Artem 👋
+
+I'm a Person based out of Moscow, Russia. I have experience building and scaling web applications and services in various verticals. I also enjoy building side projects in my free time.
+
+🐦 **[Follow Or Reach Out On Vk](https://vk.com/cloudz)**<br/>
+🚀 **[Latest Side Project: ChromeExtensionKit](https://ChromeExtensionKit.com/?ref=github)**<br/>
+💻 **[Checkout My Blog][in process]()**
+
+[![Artem's github stats](https://github-readme-stats.vercel.app/api?username=cloudzaaa&count_private=true&show_icons=true&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
