@@ -17,6 +17,7 @@ I'm a Person based out of Moscow, Russia. I have experience building and scaling
 
 🐦 **[Follow Or Reach Out On Vk](https://vk.com/cloudz)**<br/>
 💬 **[Follow Or Reach Out On LinkedIn](https://www.linkedin.com/in/artem-gavrilov)**<br/>
+⚡ **[Follow Or Reach Out On My blog](https://www.yagavrilov.com)**<br/>
 <!--
 🚀 **[Latest Side Project: ChromeExtensionKit](https://ChromeExtensionKit.com/?ref=github)**<br/>
 -->
